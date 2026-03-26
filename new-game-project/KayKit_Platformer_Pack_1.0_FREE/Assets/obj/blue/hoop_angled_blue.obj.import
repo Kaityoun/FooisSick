@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dfr8afhgscolv"
+path="res://.godot/imported/hoop_angled_blue.obj-8f5668e73961b95c8940b47fd2331611.mesh"
+
+[deps]
+
+files=["res://.godot/imported/hoop_angled_blue.obj-8f5668e73961b95c8940b47fd2331611.mesh"]
+
+source_file="res://KayKit_Platformer_Pack_1.0_FREE/Assets/obj/blue/hoop_angled_blue.obj"
+dest_files=["res://.godot/imported/hoop_angled_blue.obj-8f5668e73961b95c8940b47fd2331611.mesh", "res://.godot/imported/hoop_angled_blue.obj-8f5668e73961b95c8940b47fd2331611.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

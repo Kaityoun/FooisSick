@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://plxyoo8xad38"
+path="res://.godot/imported/bomb_B_red.obj-5883201f82c3a5e3ace9775a0bd9781d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bomb_B_red.obj-5883201f82c3a5e3ace9775a0bd9781d.mesh"]
+
+source_file="res://KayKit_Platformer_Pack_1.0_FREE/Assets/obj/red/bomb_B_red.obj"
+dest_files=["res://.godot/imported/bomb_B_red.obj-5883201f82c3a5e3ace9775a0bd9781d.mesh", "res://.godot/imported/bomb_B_red.obj-5883201f82c3a5e3ace9775a0bd9781d.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false
