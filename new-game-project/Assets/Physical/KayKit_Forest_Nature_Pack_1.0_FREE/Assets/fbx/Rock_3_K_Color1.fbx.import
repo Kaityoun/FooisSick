@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cxrlaasdjy4dl"
-path="res://.godot/imported/Rock_3_K_Color1.fbx-10ad18cd51ec3ec565b31d4c2411e1bc.scn"
+path="res://.godot/imported/Rock_3_K_Color1.fbx-f0ff38d3a5b3797b9834afe08a4dd7f5.scn"
 
 [deps]
 
-source_file="res://KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx/Rock_3_K_Color1.fbx"
-dest_files=["res://.godot/imported/Rock_3_K_Color1.fbx-10ad18cd51ec3ec565b31d4c2411e1bc.scn"]
+source_file="res://Assets/Physical/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx/Rock_3_K_Color1.fbx"
+dest_files=["res://.godot/imported/Rock_3_K_Color1.fbx-f0ff38d3a5b3797b9834afe08a4dd7f5.scn"]
 
 [params]
 

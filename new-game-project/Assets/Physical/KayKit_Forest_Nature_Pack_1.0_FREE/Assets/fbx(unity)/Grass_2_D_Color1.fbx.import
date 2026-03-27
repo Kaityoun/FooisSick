@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ch2tusna1korv"
-path="res://.godot/imported/Grass_2_D_Color1.fbx-d7daa2b6407d36b9a1cf5bb1b7c4feec.scn"
+path="res://.godot/imported/Grass_2_D_Color1.fbx-17d1c686b62b5f95e2a929238d4810c7.scn"
 
 [deps]
 
-source_file="res://KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_2_D_Color1.fbx"
-dest_files=["res://.godot/imported/Grass_2_D_Color1.fbx-d7daa2b6407d36b9a1cf5bb1b7c4feec.scn"]
+source_file="res://Assets/Physical/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_2_D_Color1.fbx"
+dest_files=["res://.godot/imported/Grass_2_D_Color1.fbx-17d1c686b62b5f95e2a929238d4810c7.scn"]
 
 [params]
 

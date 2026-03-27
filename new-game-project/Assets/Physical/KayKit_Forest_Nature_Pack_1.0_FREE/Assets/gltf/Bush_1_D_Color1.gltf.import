@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d1kprjavj72ks"
-path="res://.godot/imported/Bush_1_D_Color1.gltf-fbc1847fbfd5184b5e8b5fc42a0cbc57.scn"
+path="res://.godot/imported/Bush_1_D_Color1.gltf-05ade377d3bfef63145dce2e22ed6b72.scn"
 
 [deps]
 
-source_file="res://KayKit_Forest_Nature_Pack_1.0_FREE/Assets/gltf/Bush_1_D_Color1.gltf"
-dest_files=["res://.godot/imported/Bush_1_D_Color1.gltf-fbc1847fbfd5184b5e8b5fc42a0cbc57.scn"]
+source_file="res://Assets/Physical/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/gltf/Bush_1_D_Color1.gltf"
+dest_files=["res://.godot/imported/Bush_1_D_Color1.gltf-05ade377d3bfef63145dce2e22ed6b72.scn"]
 
 [params]
 

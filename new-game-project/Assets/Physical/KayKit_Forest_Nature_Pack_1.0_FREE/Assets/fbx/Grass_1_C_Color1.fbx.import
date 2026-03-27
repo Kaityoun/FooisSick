@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c0biv41waj6bx"
-path="res://.godot/imported/Grass_1_C_Color1.fbx-c3a906f84ce6d20d8ab263bcdd60e6de.scn"
+path="res://.godot/imported/Grass_1_C_Color1.fbx-6500b6f49f56e601be625b343db75edc.scn"
 
 [deps]
 
-source_file="res://KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx/Grass_1_C_Color1.fbx"
-dest_files=["res://.godot/imported/Grass_1_C_Color1.fbx-c3a906f84ce6d20d8ab263bcdd60e6de.scn"]
+source_file="res://Assets/Physical/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx/Grass_1_C_Color1.fbx"
+dest_files=["res://.godot/imported/Grass_1_C_Color1.fbx-6500b6f49f56e601be625b343db75edc.scn"]
 
 [params]
 

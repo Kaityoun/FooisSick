@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ea83ci14bnx4"
-path="res://.godot/imported/Grass_1_Mesh.gltf-8ae1bac8c0ba0844613476b6066fcdca.scn"
+path="res://.godot/imported/Grass_1_Mesh.gltf-3aa69d0a71c62c5976df8ccac0f31db8.scn"
 
 [deps]
 
-source_file="res://KayKit_Forest_Nature_Pack_1.0_FREE/Assets/gltf/Grass_1_Mesh.gltf"
-dest_files=["res://.godot/imported/Grass_1_Mesh.gltf-8ae1bac8c0ba0844613476b6066fcdca.scn"]
+source_file="res://Assets/Physical/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/gltf/Grass_1_Mesh.gltf"
+dest_files=["res://.godot/imported/Grass_1_Mesh.gltf-3aa69d0a71c62c5976df8ccac0f31db8.scn"]
 
 [params]
 

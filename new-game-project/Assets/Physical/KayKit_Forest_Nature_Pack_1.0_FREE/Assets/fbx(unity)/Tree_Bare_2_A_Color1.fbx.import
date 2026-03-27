@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cgssq553xjb2a"
-path="res://.godot/imported/Tree_Bare_2_A_Color1.fbx-4f02974149e7038b696ffe8b74ddbd18.scn"
+path="res://.godot/imported/Tree_Bare_2_A_Color1.fbx-abddb4ebb3d7263c569558f51d4b755d.scn"
 
 [deps]
 
-source_file="res://KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_Bare_2_A_Color1.fbx"
-dest_files=["res://.godot/imported/Tree_Bare_2_A_Color1.fbx-4f02974149e7038b696ffe8b74ddbd18.scn"]
+source_file="res://Assets/Physical/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_Bare_2_A_Color1.fbx"
+dest_files=["res://.godot/imported/Tree_Bare_2_A_Color1.fbx-abddb4ebb3d7263c569558f51d4b755d.scn"]
 
 [params]
 
